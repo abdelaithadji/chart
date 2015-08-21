@@ -1,0 +1,9 @@
+/**/
+
+
+.meta-box-item-title > .meta-box-item-content {
+    
+    width:50%;
+    float:left;
+    border:solid 1px red;
+}
